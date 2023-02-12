@@ -11,30 +11,30 @@ It consists of storing assets, such as images and style files, for example.
 
 Components are the building blocks of any react project. This folder consists of a collection of UI components like buttons, modals, inputs, loader, etc. that can be used in various files in the project.
 
-## Assets Configs
+## Folder Configs
 
 Contains general project settings, such as APIs.
 
-## Assets Contexts
+## Folder Contexts
 
 Contains the contexts that information will be shared between components, layouts or pages.
 
-## Assets Layouts
+## Folder Layouts
 
 Contains available layouts for the whole project like header, footer, etc.
 
-## Assets Pages
+## Folder Pages
 
 The files in the pages folder indicate the route of the react app. Each file in this folder contains your route.
 
-## Assets Routes
+## Folder Routes
 
 This folder consists of all routes in the application. It consists of private, protected and all kinds of routes.
 
-## Assets Services
+## Folder Services
 
 This folder will contain the services that will be used in components, layouts or pages, for example, user information.
 
-## Assets Utils
+## Folder Utils
 
 The Utils folder consists of some repeatedly used functions that are commonly used in the project. It should only contain common js functions and objects like dropdown options, regex condition, data formatting, etc.
